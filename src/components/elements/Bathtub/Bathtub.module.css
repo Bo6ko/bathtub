@@ -1,0 +1,17 @@
+.bathtub {
+    width: 200px;
+    margin: 0 auto 30px;
+    border: 2px solid #000;
+    border-top: unset;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.level {
+    border: 1px solid #25018a;
+    background-color: #642cff;
+    height: 20px; 
+    text-align: center;
+}
