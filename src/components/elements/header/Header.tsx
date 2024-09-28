@@ -2,7 +2,7 @@ const Header = () => {
   return (
     <div className="container">
       <header>
-        Header
+        Github: https://github.com/Bo6ko/bathtub
       </header>
     </div>
   );
